@@ -1,5 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/I8-8IFxo)
-# Семинар 1
+# Семинар 1 
+[![ссылка на репозиторий](https://github.com/Shalkren/sem2).
+![image](https://github.com/user-attachments/assets/72aa8e27-710d-45d5-9936-3fb2fcc9772a)
+
 
 Данный семинар направлен на изучение GitHub, его возможностей и задач, которые он помогает выполнять.
 В течение семестра вы будете выполнять задания как в ClassRoom'ах, так и на своём личном GitHub, обращайте внимание на это и задавайте вопросы, если что-то непонятно.
